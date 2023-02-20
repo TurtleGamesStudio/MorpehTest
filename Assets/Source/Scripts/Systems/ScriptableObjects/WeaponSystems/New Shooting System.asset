@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f5b8f85c806ff4eb0812059a9b9e12, type: 3}
+  m_Name: New Shooting System
+  m_EditorClassIdentifier: 
+  _impactEffect: {fileID: 8610923496216208004, guid: 948161c865561134fa140167990fdea0, type: 3}
+  _impactEffectLifetime: 3
